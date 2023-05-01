@@ -1,0 +1,41 @@
+10000*(10/20)=1000
+10000
+WAP to input basic salary of an employee and calculate its Gross     salary according to following:
+    Basic Salary <= 10000 : HRA = 20%, DA = 80%
+    Basic Salary <= 20000 : HRA = 25%, DA = 90%
+    Basic Salary > 20000 : HRA = 30%, DA = 95%
+----------------------------------------
+
+algorthems
+--------------------------------------
+step1: start
+step2: decalre the variable basic salary, gross salary,HRA,DA
+step3: read the basic salary
+step4: if the basic salary was less than or equal to 10000
+step5: calculate the 20%HRA(basic salary*20/100) and 80%DA( basic salary*80/100)
+step6: for calculate gross salary add basic salary+HRA+DA
+step7: go to step16
+step8: else if basic salary was less than or equal to 20000
+step9:calculate the 25%HRA(basic salary*25/100) and 90%DA( basic salary*90/100)
+step10: for calculate gross salary add basic salary+HRA+DA
+step11:go to step16
+step12:else if basic salary was greater than 20000
+step 13:calculate the 30%HRA(basic salary*30/100) and 95%DA( basic salary*95/100)
+step14: for calculate gross salary add basic salary+HRA+DA
+step15:go to step16
+step16: print gross salary
+step17:stop
+------------------------------------------------
+
+step1: start
+step2: declare the variables height,weight,BMI
+step3: read the values of height,weight
+step4: caculate the BMI by weight/square(height)
+step5: if BMI is less than or equal to 18.5
+step6: print the person is under weight
+step7: else if the BMI is less than or equal to 24.9
+step8: print the person is normal weight
+step9: else if the BMI is greater or equal to 29.9
+step10 print the person is overweight
+step11: stop
+------------------------------------------------
