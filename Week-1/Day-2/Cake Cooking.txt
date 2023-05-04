@@ -1,0 +1,9 @@
+//Cake cooking process
+step1-start
+step2-take the ingredients eggs,flour,sugar powder,flavoured essence etc
+step3-next take the bowl and mix all these ingredients step by step without any air bubbles
+step4-pour this mixture into baking tray
+step5-put this tray into microoven under at required temperature for baking process
+step6-after that we can take it out from oven
+step7-then we serve our cake as our required garnishing by applying the cream on it
+step8-stop

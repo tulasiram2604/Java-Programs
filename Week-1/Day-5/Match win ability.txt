@@ -1,0 +1,8 @@
+//Check the match win ability
+step1-start
+step2-declare current score,run rate,no_of_wickets
+step3-read current score,run rate,no_of_wickets from user
+step4-estimate the final score based on the current score and run rate
+step5-and also check the previous match score between these two teams
+step6-based on these conditions we can predict which team is going to be win
+step7-stop

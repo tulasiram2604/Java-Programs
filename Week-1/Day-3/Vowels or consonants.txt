@@ -1,0 +1,8 @@
+//vowels or consonants
+step1-start
+step2- declare the variable var
+step3-read var=b
+step4- first compare var with vowels(a,e,i,o,u) i.e., if(var==a or var==e or var=i or var==o or var==u)
+step5-if it is true then var is a vowel
+step6-otherwise var is consonant
+step7-stop

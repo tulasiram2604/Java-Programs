@@ -1,0 +1,8 @@
+//percentage of 5 subjects
+step1-start
+step2-declare sub1,sub2,sub3,sub4,sub5,total,percentage
+step3-read 5 subject values from user i.e., sub1,sub2,sub3,sub4,sub5
+step4-add all subjects marks and store in total i.e., total=sub1+sub2+sub3+sub4+sub5
+step5-calculate (total/500)*100 and store in percentage
+step6-print percentage
+step7-stop

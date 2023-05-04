@@ -1,0 +1,8 @@
+//even number or not
+step1-start
+step2-declare the num
+step3-read num=14
+step4-divide num with 2
+step5-if we get the remainder as 0 then num is an even
+step6-otherwise num is an odd
+step7-stop

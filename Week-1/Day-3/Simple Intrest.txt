@@ -1,0 +1,7 @@
+//simple interest
+
+step1-start
+step2-declare time,principle amt,ROI,SI
+step3-calculate(time*principle amt*ROI)/100 and store in SI
+step4-print SI
+step5-stop

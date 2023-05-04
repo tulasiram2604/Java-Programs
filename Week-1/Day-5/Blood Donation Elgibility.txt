@@ -1,0 +1,9 @@
+//Blood Donation Elgibility
+step1-start
+step2- declare age,weight,haemoglobin percentage
+step3-read age,weight,haemoglobin percentage from the user
+step4-check whether the age>=18 and weight>=50 and haemoglobin percentage>=9 
+step5-check the person's health condition and check whether the person do not donate blood for last 3 months
+step6-if all these conditions are true then print you are eligible to donate blood
+step7-otherwise print you are not eligible
+step8-stop

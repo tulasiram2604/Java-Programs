@@ -1,0 +1,8 @@
+//Positive or negative
+step1-start
+step2-declare the num
+step3-read the num=3
+step4-check whether the num is greater than or equal to zero(num>=0)
+step5-if it returns true then num is a positive
+step6-otherwise num is a negative
+step7-stop

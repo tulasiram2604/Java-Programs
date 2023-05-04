@@ -1,0 +1,10 @@
+printing even numbers from 1 to 100
+//Print Even numbers 1-100
+step1-start
+step2-declare count
+step3-assign value 1 to count i.e., count=1
+step4-check whether count is divisible by 2 or not i.e., (count%2==0)
+step5-if it is true print count
+step6-increment count value by one and store the value in count(count=count+1)
+step7-repeat step 4,5&6 until it reaches count value is less than or equal to 100(count<=100)
+step8-stop

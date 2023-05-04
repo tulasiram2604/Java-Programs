@@ -1,0 +1,6 @@
+//area of rectangle
+step1-start
+step2-declare length,breadth and area
+step3-multiply length and breadth & store in area i.e., area=length*breadth
+step4-print area
+step5-stop

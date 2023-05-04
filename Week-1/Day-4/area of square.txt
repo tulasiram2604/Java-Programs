@@ -1,0 +1,6 @@
+//area of square
+step1-start
+step2-declare side and area
+step3- calculate side*side and store in area i.e., area=side*side
+step4-print area
+step5-stop

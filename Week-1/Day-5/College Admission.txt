@@ -1,0 +1,8 @@
+//College Admission
+step1-start
+step2-declare eligibility percentage,obtained percentage
+step3-read obtained percentage from user
+step4-check whether the obtabined percentage is greater than or equal to eligibility percentage
+step5-you are eligible for admission
+step6-otherwise you are not eligible for the admission
+step7-stop

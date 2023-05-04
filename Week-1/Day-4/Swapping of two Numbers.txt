@@ -1,0 +1,9 @@
+//Swpping of Two Numbers
+step1-start
+step2-declare 3 variables A,B,temp
+step3-read the values A=10,B=20
+step4- store A value in temp ->temp=A
+step5-store B value in A -> A=B
+step6-store temp value in B -> B=temp
+step7-print A and B
+step8- stop

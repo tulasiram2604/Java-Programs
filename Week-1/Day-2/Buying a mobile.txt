@@ -1,0 +1,13 @@
+//Buying a Mobile
+step1-start
+step2-Go to website
+step3-login into that website
+step4-search for the required mobile
+step5-knowing about all the features of that mobile
+step6-visiting the review session
+step7-add to cart that product
+step8-buy now
+step9-paying the amount either by instant payment or by cash on delivery
+step10-providing the address for product delivery
+step11-confirm the delivery
+step12-stop

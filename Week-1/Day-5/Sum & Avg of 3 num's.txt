@@ -1,0 +1,8 @@
+//Sum & Avg of 3 num's
+step1-start
+step2-declare num1,num2,num3,sum,avg
+step3-read num1=20,num2=10,num3=20 form user
+step4-add these three numbers and store it in sum as sum=num1+num2+num3
+step5-calculate average and store it in avg as avg=sum/3
+step6-print sum and avg
+step7-stop

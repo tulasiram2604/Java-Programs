@@ -1,0 +1,7 @@
+//avg of three numbers
+step1-start
+step2-declare n1,n2,n3,sum,avg
+step3-add n1,n2,n3 and store in sum i.e.,sum=n1+n2+n3
+step4-divide sum with 3 and store in avg i.e.,avg=sum/3
+step5-print avg
+step6-stop

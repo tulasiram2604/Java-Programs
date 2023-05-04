@@ -1,0 +1,9 @@
+//printing sum of numbers from 1 to 10
+step1-start
+step2-declare count,sum
+step3-assign value 1 to count i.e., count=1
+step4-assign count value into sum i.e., sum=count
+step5-increment count value by one and store the value in count(count=count+1)
+step6-add sum and count values & store it in sum i.e., sum=sum+count
+step7-repeat step 5&6 until it reaches count value is less than or equal to 10(count<=10)
+step8-stop

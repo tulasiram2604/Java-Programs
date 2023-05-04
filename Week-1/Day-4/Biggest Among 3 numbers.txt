@@ -1,0 +1,9 @@
+//Biggest among 3 numbers
+step1-start
+step2-declare a,b,c
+step3-read a=10,b=20,c=30
+step4-compare these 3 numbers as the following
+step5- if (a>b)and(a>c) then a is big
+step6- else if (b>c) then b is big
+step7- otherwise c is big
+step8-stop

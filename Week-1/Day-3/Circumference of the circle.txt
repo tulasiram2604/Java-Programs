@@ -1,0 +1,6 @@
+//circumference of the circle
+step1-start
+step2-declare radius,pie=3.14,circumference
+step3-calculate 2*pie*radius and store in circumference
+step4-print circumference
+step5-stop

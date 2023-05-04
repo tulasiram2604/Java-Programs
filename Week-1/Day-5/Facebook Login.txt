@@ -1,0 +1,10 @@
+//Facebook Login
+
+step1-start
+step2-declare username,password
+step3-open facebook app
+step4-read username and password from user
+step5-check whether username and password are correct or not
+step6-if it is correct then print login successfully
+step7-otherwise print invalid username/password
+step8-stop 

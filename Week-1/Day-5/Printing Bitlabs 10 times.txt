@@ -1,0 +1,8 @@
+//Printing Bitlabs for 10times
+step1:start
+step2:declare count
+step3:assigning the value 1 to count variable (count=1)
+step4:print "bitlabs"
+step5:incrementing count value by 1 and store the value into count (count =count+1)
+step6: repeat step 4 and 5 until it reaches count value is greater than 10 (count<=10)
+step7:stop

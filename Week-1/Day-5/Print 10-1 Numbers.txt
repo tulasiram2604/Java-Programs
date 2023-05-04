@@ -1,0 +1,8 @@
+//Algorithm to print 10 to 1 numbers
+step1-start
+step2-declare count
+step3-assign the value 10 to count(count=10)
+step4-print count
+step5-decrement count value by one and store the value in count(count=count-1)
+step6-repeat steps 4 and 5 until it reaches count value is greater than or equal to 1(count>=1)
+stpe7-stop

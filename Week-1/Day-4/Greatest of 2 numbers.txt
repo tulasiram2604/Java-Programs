@@ -1,0 +1,8 @@
+//Greatest No Amoung 2 numbers
+step1-start
+step2-declare num1,num2
+step3-read num1=10,num2=20
+step4-compare num1 and num2 i.e.,num1>=num2
+step5- if it is true then print num1 is greatest number
+step6-otherwise num2 is greatest number
+step7-stop

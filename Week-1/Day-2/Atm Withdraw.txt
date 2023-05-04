@@ -1,0 +1,7 @@
+//Atm withdraw
+step1-start
+step2-inserting the card
+step3-selecting the transaction type
+step4-entering the amount
+step5-entering the pin
+step6-finally amount will be withdrawn

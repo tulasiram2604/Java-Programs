@@ -1,0 +1,8 @@
+//perimeter of the rectanle
+
+step1-start
+step2-declare length,breadth,perimeter,sum
+step3-add length and breadth and store in sum i.e., sum=length+breadth
+step4-multiply sum with 2 and store in perimeter i.e., perimeter=2(sum)
+step5-print perimeter
+step6- stop
