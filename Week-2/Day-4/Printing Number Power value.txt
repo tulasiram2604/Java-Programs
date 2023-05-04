@@ -1,0 +1,7 @@
+//Number Power Value
+step1-start
+step2-declare num,power_value,result
+step3-read num and power_value (for ex num=2,power_value=3)
+step4-multiply num value itself for power_value times and store the result in result (for ex result=2*2*2)
+step5-print result
+step6-stop

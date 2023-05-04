@@ -1,0 +1,17 @@
+//perimeter of rectangle
+
+1.begin
+2.declare length,breadth,peri
+3.input length,breadth
+4.peri=2(lenght+breadth)
+5.display peri
+6.end
+
+//perimeter of square
+
+1.begin
+2.declare side,peri
+3.input side
+4.peri=4*side
+5.display peri
+6.end

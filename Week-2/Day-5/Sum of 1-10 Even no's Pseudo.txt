@@ -1,0 +1,13 @@
+1.begin
+2.declare count
+3.input sum=0 and initialize count=1
+4.while(count<=10) do
+5.if (count%2==0)
+6.sum=sum+count
+7.count=count+1
+8.else 
+9.count=count+1
+10.end if
+11.end while
+12.display sum
+13.end

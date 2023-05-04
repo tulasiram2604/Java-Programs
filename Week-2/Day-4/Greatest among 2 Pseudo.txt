@@ -1,0 +1,9 @@
+begin
+declare num1,num2
+Input the values num1,num2
+if(num1>num2)
+print num1 is greater
+else
+print num2 is greater
+end if
+End

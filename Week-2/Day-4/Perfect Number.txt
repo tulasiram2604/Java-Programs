@@ -1,0 +1,13 @@
+//Perfect Number
+step1-start
+step2-declare num,count,sum
+step3-read num(12) value,count=1,sum=0
+step4-check whether count is less than num if it is true then go to step5 otherwise go to step12
+step5-check whether the num is divisible by count or not(num%count==0) if it is true then go to step step6
+step6-add sum,count value and store the result in sum(sum=sum+count)
+step7-increment count value by 1(count=count+1) until the count less than num(count<num)
+step8-repeat step 4 until count less than or equal to num
+step9-check whether the sum is equal to num or not(sum==num) if it is true then go to step10 otherwise go to step11
+step10-print num is perfect number
+step11-print num is not a perfect number
+step12-stop

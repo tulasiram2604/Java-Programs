@@ -1,0 +1,10 @@
+begin
+declare num,digit=0
+input num
+while(num>0)
+do
+digit=num%10
+print digit
+num=num/10
+end while
+end

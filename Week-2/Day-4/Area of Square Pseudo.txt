@@ -1,0 +1,7 @@
+1.begin
+// dispaly "enter the value of side"
+2.declare side,area
+3.Input side
+4.area=side*side
+5.display area
+6.End

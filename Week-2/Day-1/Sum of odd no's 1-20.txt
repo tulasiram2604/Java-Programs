@@ -1,0 +1,10 @@
+//Sum of odd no's 1-20
+step1-start
+step2-declare sum,count
+step3-assigning the value 1 into count i.e., count=1 and sum=0
+step4-check whether count is not divisble by 2 or not i.e., count%2!=0 if it is true go to step5 otherwise go to step6
+step5- add sum and count value and store that value in sum=sum+count
+step6-increment count value by 1 
+step7-repeat step 4 until it reaches the condition count less than or equal to 20(count
+step8-print sum
+step9-stop

@@ -1,0 +1,10 @@
+//Factors algorithm
+step1-start
+step2-decalre num,count
+step3-read num(for ex 10),count=1
+step4-check whether count less than or equal to num if it is true then go to step 5 other wise go to step 9.
+step5-check whether num is divisible by count or not(num%count==0)then go to step 6
+step6-if it is true then print count then go to step7
+step7-increment count value by 1 until the condition count less than or equal to num(count<=num) is false.
+step8-repeat step4 until the condition count less than or equal to num(count<=num) is false
+step9-stop.

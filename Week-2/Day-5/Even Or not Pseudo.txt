@@ -1,0 +1,9 @@
+1.begin
+2.declare num
+3.read num
+4.if(num%2==0)
+5.display num is an even number
+6.else
+7.display num is not an even number
+8.end if
+9.end

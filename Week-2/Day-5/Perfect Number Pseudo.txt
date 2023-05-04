@@ -1,0 +1,17 @@
+1.begin
+2.declare num,count,sum
+3.read num and initialize sum=0,count=1
+4.while(count<num) do
+5.if(num%count==0)
+6.sum=sum+count
+7.count=count+1
+8.else
+9.count=count+1
+10.end if
+11.end while
+12.if(num==sum)
+13.display num is a perfect number
+14.else
+15.display num is not a perfect number
+16.end if
+17.end

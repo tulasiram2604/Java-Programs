@@ -1,0 +1,9 @@
+1.begin
+2.declare age
+3.read age
+4.if(age>=18)
+5.display voter is eligible to vote
+6.else
+7.display voter is not eligible to vote
+8.end if
+9.end

@@ -1,0 +1,13 @@
+1.begin
+2.declare count
+3.input count=0 and initialize num=1
+4.while(num<=50) do
+5.if (num%2==0)
+6.count=count+1
+7.num=num+1
+8.else 
+9.num=num+1
+10.end if
+11.end while
+12.display count
+13.end

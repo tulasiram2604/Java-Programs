@@ -1,0 +1,9 @@
+//Algorirthm for multiples of a number
+step1-start
+step2-declare variables num,S and count,i
+step3-read the value into num,S and count=1(for example num=3,S=15)
+step4-first we need to check whether count is less than or equal to S or not.
+step5-if it is true then calculate i=num*count
+step6-print i value
+step7-otherwise increment the count value and repeat the step 4,5,6 until the count is less than or equal to S i.e.,(count<=15)
+step8-stop

@@ -1,0 +1,21 @@
+begin
+declare num
+input num
+if(num==1)
+print "Monday"
+else if(num==2)
+print "tuesday"
+else if(num==3)
+print "wednesay"
+else if(num==4)
+print "thrusday
+else if(num==5)
+print "friday"
+else if(num==6)
+print "saturday"
+else if(numm==7)
+print "sunday"
+else
+print "invalid number"
+end if
+end

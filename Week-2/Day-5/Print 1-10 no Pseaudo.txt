@@ -1,0 +1,8 @@
+1.begin
+2.declare count
+3.initialize count=1
+4.while(count<=10) do
+5.display count
+6.count=count+1
+7.end while
+8.end

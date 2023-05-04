@@ -1,0 +1,11 @@
+1.begin
+2.declare num1,num2,num3
+3.input the values into num1,num2,num3
+4.if((num1>num2)&&(num1>num3))
+5.print num1 is greater
+6.else if (num2>num3)
+7.print num2 is greater
+8.else 
+9.print num3 is greater
+10.end if
+11.end

@@ -1,0 +1,18 @@
+//Area of rectanle
+
+1.begin
+2.declare length,breadth,area
+3.input length,breadth
+4.area=length*breadth
+5.display area
+6.end
+
+
+//Area of square
+
+1.begin
+2.declare side,area
+3.input side
+4.area=side*side
+5.display area
+6.end
